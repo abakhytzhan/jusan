@@ -51,7 +51,7 @@ int main() {
 
 | **Платформа** | **Ссылка** | **Отвечу за** |
 | --------- | ------ | --------- |
-| Почта     | [Ссылка](https://github.com/abakhytzhan/README/edit/main/README.md) | 24 часа   |
-| LinkedIn  | [Ссылка](https://github.com/abakhytzhan/README/edit/main/README.md) | 3 часа    |
-| WhatsApp  | [Ссылка](https://github.com/abakhytzhan/README/edit/main/README.md) | 30 минут  |
-| Telegram  | [Ссылка](https://github.com/abakhytzhan/README/edit/main/README.md) | 5 минут   |
+| Почта     | [Ссылка](https://github.com/abakhytzhan/jusan) | 24 часа   |
+| LinkedIn  | [Ссылка](https://github.com/abakhytzhan/jusan) | 3 часа    |
+| WhatsApp  | [Ссылка](https://github.com/abakhytzhan/jusan) | 30 минут  |
+| Telegram  | [Ссылка](https://github.com/abakhytzhan/jusan) | 5 минут   |
